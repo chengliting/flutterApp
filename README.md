@@ -1,6 +1,6 @@
 # my_first_app
 
-我的第一个 flutter app，随便写点什么功能，练练手
+flutter app，随便写点什么功能，练练手
 
 ## 项目计划
 
